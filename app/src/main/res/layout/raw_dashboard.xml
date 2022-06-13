@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/clParentRaw"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/gape10"
+    android:background="@android:color/transparent"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:id="@+id/flParent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivDashBoard"
+            android:background="@drawable/circle_background"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:padding="23dp"
+            android:src="@drawable/ic_send_msg"
+            android:layout_width="@dimen/size120"
+            android:layout_height="@dimen/size120"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tvDashBoardName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/flParent"
+        android:layout_alignStart="@id/flParent"
+        android:layout_alignLeft="@id/flParent"
+        android:layout_alignEnd="@id/flParent"
+        android:layout_alignRight="@id/flParent"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size5"
+        android:fontFamily="@font/roboto_regular"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27596852960",
+    "project_id": "communicationapp-dd074",
+    "storage_bucket": "communicationapp-dd074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27596852960:android:1501f907c96d6e88288a85",
+        "android_client_info": {
+          "package_name": "com.bapscommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27596852960-9h1vmc848tnf1al5n93n0gmbp7bnjd1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBZ6cElWk1vPMtQ0PrLWkNRPLugtkvw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27596852960-9h1vmc848tnf1al5n93n0gmbp7bnjd1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

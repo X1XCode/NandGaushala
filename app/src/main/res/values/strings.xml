@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BAPS Communication</string>
+
+    <string name="str_ok" tools:ignore="MissingTranslation">Ok</string>
+    <string name="str_cancel" tools:ignore="MissingTranslation">Cancel</string>
+
+    <string-array name="attachment_dialog_string">
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Audio</item>
+        <item>Location</item>
+    </string-array>
+
+    <string name="action_settings" tools:ignore="MissingTranslation">Settings</string>
+    <string name="str_allow_permission" tools:ignore="MissingTranslation">You need to allow all permission for better use of Application.</string>
+
+</resources>

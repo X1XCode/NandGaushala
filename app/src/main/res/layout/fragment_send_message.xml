@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    tools:context=".fragments.dashboard.SendMessageFragment">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_header"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMessages"
+        android:overScrollMode="never"
+        app:stackFromEnd="true"
+        android:clipToPadding="false"
+        android:visibility="gone"
+        android:layout_below="@id/toolbar"
+        android:layout_above="@id/llSendMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:id="@+id/llSendMessage"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/etMessage"
+            android:background="@drawable/edittext_background"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:inputType="text"
+            android:layout_margin="@dimen/gape10"
+            android:textColor="@color/black"
+            android:hint="type here.."
+            android:layout_gravity="center"
+            android:paddingStart="@dimen/size15"
+            android:paddingEnd="@dimen/gape10"
+            android:paddingTop="@dimen/gape10"
+            android:paddingBottom="@dimen/gape10"
+            android:drawableRight="@drawable/ic_attachment"
+            android:drawablePadding="@dimen/size5"
+            android:layout_height="@dimen/size45"/>
+
+        <ImageView
+            android:id="@+id/ivSend"
+            android:src="@drawable/ic_send"
+            android:layout_width="@dimen/size50"
+            android:layout_marginEnd="@dimen/gape10"
+            android:layout_gravity="center"
+            android:scaleType="center"
+            android:background="@drawable/circle_background_primary"
+            android:layout_height="@dimen/size50"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

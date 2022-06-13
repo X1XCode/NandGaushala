@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable-v24/edittext_white_back.xml" value="0.18385416666666668" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable-v24/ic_login_rectangle.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable-xhdpi/circle_background_primary.xml" value="0.18385416666666668" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/background_chat_input.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/background_content_top.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/background_received_message.xml" value="0.25277777777777777" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/background_sent_message.xml" value="0.25277777777777777" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/button_back.xml" value="0.18385416666666668" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/button_without_back.xml" value="0.18385416666666668" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/circle_background.xml" value="0.2548717948717949" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/circle_background_primary.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/custom_progress_bar.xml" value="0.2548717948717949" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/edittext_background.xml" value="0.536" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/edittext_background_grey.xml" value="0.2548717948717949" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/edittext_cursor.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/edittext_white_back.xml" value="0.18385416666666668" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/email_rectangle.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/ic_login_rectangle.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/password_rectangle.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/pb_background.xml" value="0.2548717948717949" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/pin_background.xml" value="0.25462962962962965" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/drawable/pwdl_rectangle.xml" value="0.25885416666666666" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/activity_home.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/activity_main.xml" value="0.13425925925925927" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/app_bar_home.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/content_home.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/dialog_attachment_layout.xml" value="0.3539473684210526" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_dashboard.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_login.xml" value="0.4" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_login_type.xml" value="0.25" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_message.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_send_message.xml" value="0.264" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_send_otp.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_signup.xml" value="0.2" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_splash.xml" value="0.16770833333333332" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/fragment_user.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_attachment_layout.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_chat_layout.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_container_received.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_container_received_message.xml" value="0.2" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_container_sent_message.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_user.xml" value="0.1962962962962963" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/item_user_recent_conversion.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/nav_header_home.xml" value="0.24270833333333333" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/progress_hud.xml" value="0.4" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/raw_dashboard.xml" value="0.4" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/layout/toolbar_header.xml" value="0.2" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/menu/activity_home_drawer.xml" value="0.536" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/menu/main_menu.xml" value="0.536" />
+        <entry key="..\:/PareshBhai/DeluxProduct/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2548717948717949" />
+        <entry key="..\:/PareshBhai/app/src/main/res/layout/activity_main.xml" value="0.15364583333333334" />
+        <entry key="..\:/PareshBhai/app/src/main/res/layout/fragment_login.xml" value="0.16770833333333332" />
+        <entry key="..\:/PareshBhai/app/src/main/res/layout/fragment_splash.xml" value="0.14444444444444443" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
