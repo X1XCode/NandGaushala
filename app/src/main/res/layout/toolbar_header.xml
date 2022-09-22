@@ -32,10 +32,10 @@
             android:src="@drawable/ic_menu" />
     </FrameLayout>
     <TextView
+        android:id="@+id/tvHeader"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:id="@+id/tvHeader"
         android:layout_marginStart="@dimen/size20"
         android:fontFamily="@font/roboto_black"
         android:layout_toEndOf="@id/flFront"
@@ -71,6 +71,27 @@
             android:paddingEnd="@dimen/gape10"
             android:visibility="gone"
             app:srcCompat="@drawable/ic_more" />
+
+        <ImageView
+            android:id="@+id/ivLogout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingEnd="@dimen/gape10"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_logout"
+            app:tint="@color/white" />
+
+        <ImageView
+            android:id="@+id/ivMilkInwardList"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingStart="@dimen/space_xl"
+            android:paddingTop="@dimen/size5"
+            android:paddingEnd="@dimen/size5"
+            android:paddingBottom="@dimen/size5"
+            android:visibility="gone"
+            android:layout_gravity="end"
+            app:srcCompat="@drawable/inwardlist" />
 
     </FrameLayout>
 

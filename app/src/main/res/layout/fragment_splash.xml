@@ -7,10 +7,10 @@
     android:background="@color/white"
     tools:context=".fragments.SplashFragment">
     <ImageView
-        android:src="@drawable/appicon"
+        android:src="@drawable/applogo"
         android:layout_gravity="center"
         android:paddingStart="@dimen/size20"
         android:paddingEnd="@dimen/size20"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 </FrameLayout>

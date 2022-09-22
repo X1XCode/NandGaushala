@@ -21,32 +21,20 @@
 
             <ImageView
                 android:id="@+id/ivLoginImage"
-                android:layout_width="@dimen/size150"
-                android:layout_height="@dimen/size150"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:visibility="visible"
-                android:src="@drawable/appicon"
+                android:src="@drawable/applogo"
                 android:gravity="center"
                 />
-
-            <TextView
-                android:id="@+id/tvLoginType"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/gape10"
-                android:visibility="gone"
-                android:fontFamily="@font/roboto_black"
-                android:gravity="center"
-                android:text="Login"
-                android:textColor="@color/colorPrimary"
-                android:textSize="@dimen/textSize18" />
 
             <EditText
                 android:id="@+id/etUserName"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/size45"
+                android:layout_marginTop="-20dp"
                 android:layout_marginStart="@dimen/size5"
-                android:layout_marginTop="60dp"
                 android:layout_marginEnd="@dimen/size5"
                 android:background="@drawable/ic_login_rectangle"
                 android:drawableLeft="@drawable/email_rectangle"
@@ -71,7 +59,7 @@
                 android:background="@drawable/ic_login_rectangle"
                 android:drawableLeft="@drawable/password_rectangle"
                 android:drawablePadding="@dimen/gape10"
-                android:hint="Enter UserName"
+                android:hint="Password"
                 android:inputType="textPassword"
                 android:singleLine="true"
                 android:textColor="@color/black"
